@@ -1,0 +1,6 @@
+[package]
+name = "hail_mary"
+version = "0.1.0"
+authors = ["Malcolm <malcolm.balch@gonift.com>"]
+
+[dependencies]
